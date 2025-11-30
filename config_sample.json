@@ -1,0 +1,22 @@
+{
+  "settings": {
+    "plugins": {
+      "enabled": true
+    }
+  },
+  "domains": {
+    "": {
+      "title": "MeshCentral",
+      "plugins": {
+        "notes": {
+          "enabled": true,
+          "allowGlobalNotes": true,
+          "allowDeviceNotes": true,
+          "maxNoteLength": 10000,
+          "allowedRoles": ["admin", "user"],
+          "notificationEnabled": false
+        }
+      }
+    }
+  }
+}

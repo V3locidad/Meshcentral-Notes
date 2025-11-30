@@ -1,0 +1,18 @@
+{
+  "name": "meshcentral-notes",
+  "version": "1.0.0",
+  "description": "Plugin de prise de notes centralisées pour MeshCentral",
+  "main": "notes.js",
+  "keywords": [
+    "meshcentral",
+    "notes",
+    "documentation",
+    "collaboration"
+  ],
+  "author": "V3locidad",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/V3locidad/meshcentral-notes"
+  }
+}
